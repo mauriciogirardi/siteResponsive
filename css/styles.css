@@ -449,3 +449,50 @@
 		margin-top: 20px;
 	}
 }
+
+@media (max-width: 500px) {
+	.banner header {
+		padding: 20px 15px;
+	}
+	.banner .content {
+		padding: 15px;
+		text-align: left;
+	}
+	.about .contentBx {
+		padding: 50px 15px;
+		text-align: left;
+	}
+
+	.services {
+		padding: 50px 15px;
+		text-align: left;
+	}
+
+	.services .container .serviceBx h2 {
+		text-align: center;
+	}
+
+	.technology {
+		padding: 300px 15px 60px 15px;
+	}
+
+	.client {
+		padding: 50px 15px;
+		text-align: left;
+	}
+
+	.testimonils {
+		padding: 50px 15px;
+		text-align: left;
+	}
+
+	.contact {
+		padding: 50px 15px;
+		text-align: left;
+	}
+
+	.footer {
+		padding: 50px 15px;
+		align-items: flex-start;
+	}
+}
